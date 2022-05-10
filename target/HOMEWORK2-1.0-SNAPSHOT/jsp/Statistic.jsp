@@ -5,9 +5,7 @@
     <title>Statistic</title>
 </head>
 <body>
-
 <h2>Statistic</h2>
-
 <p>NUMBER OF MESSAGES - ${requestScope.messages}</p>
 <p>NUMBER OF ACTIVE USERS - ${requestScope.loggedUsers}</p>
 <p>TOTAL NUMBER OF USERS - ${requestScope.allUsers}</p>
